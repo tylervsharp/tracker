@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	margin-top: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	color: #ffa500;
+}
+
+h2 {
+	font-size: 4em;
+}
+
+button,
+button:focus {
+	touch-action: manipulation;
+}
+
+button {
+	background-color: #334FFF;
+	color: #fff;
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 1em;
+}
